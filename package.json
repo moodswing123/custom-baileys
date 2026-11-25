@@ -22,5 +22,13 @@
   "types": "dist/index.d.ts",
   "files": [
     "dist"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com"
+  },
+  "homepage": "https://github.com",
+  "bugs": {
+    "url": "https://github.com"
+  }
 }
