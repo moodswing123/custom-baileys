@@ -1,6 +1,6 @@
 {
   "name": "@victory_is_h1m/custom-baileys",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
